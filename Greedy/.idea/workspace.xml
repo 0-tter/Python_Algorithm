@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a783bb2d-de09-408c-8d9f-a03a66b22f71" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/둘만의_암호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/부족한_금액_계산하기.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/포켓몬.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,7 @@
       <workItem from="1697135553434" duration="16000" />
       <workItem from="1697280270516" duration="152000" />
       <workItem from="1697280923785" duration="9000" />
+      <workItem from="1697554315870" duration="32000" />
     </task>
     <servers />
   </component>
